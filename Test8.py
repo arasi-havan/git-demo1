@@ -1,5 +1,5 @@
 print("This is the sum of two numbers")
-a=2
+a=5
 b=3
 c=a+b
 print(c)
