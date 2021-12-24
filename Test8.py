@@ -3,7 +3,7 @@ a=5
 b=3
 c=a+b
 print(c)
-a=3
+a=10
 b=4
 c=a+b
 print(c)
